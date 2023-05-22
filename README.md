@@ -1,2 +1,2 @@
 # TurkceTekilCogul
-Türkçedeki Kelimeleri Tekil Yağul Yapma php Kodu
+Türkçedeki Kelimeleri Tekil Çoğul Yapma PHP Snıfı
